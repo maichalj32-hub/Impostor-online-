@@ -2,10 +2,11 @@
   "name": "inpostor",
   "version": "1.0.0",
   "description": "Moja gra Inpostor",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
-    "start": "live-server"
+    "start": "node Server.js"
   },
-  "author": "Twoje imię",
-  "license": "MIT"
+  "author": "Twoje Imię",
+  "license": "MIT",
+  "dependencies": {}
 }
